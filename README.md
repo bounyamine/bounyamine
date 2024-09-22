@@ -54,7 +54,7 @@ Je suis un développeur passionné par les technologies de pointe et l'innovatio
 
 ---
 
-[![]([![](https://visitcount.itsvg.in/api?id=bounyamine&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in))
+![]([![](https://visitcount.itsvg.in/api?id=bounyamine&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in))
 
 ---
 
