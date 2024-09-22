@@ -1,7 +1,3 @@
-Voici un modèle de README en français, similaire à celui d'Oumarou Sanda Souley, mais avec une touche plus futuriste et attrayante pour le compte **https://github.com/bounyamine** :
-
----
-
 # 🚀 Bienvenue dans mon univers tech, je suis Bounyamine !
 
 Je suis un développeur passionné par les technologies de pointe et l'innovation. J'adore transformer des idées en solutions concrètes à travers des applications web et mobiles performantes et modernes. Mon objectif : repousser les limites du code et des technologies !
@@ -63,7 +59,3 @@ Je suis un développeur passionné par les technologies de pointe et l'innovatio
 ---
 
 Poussons ensemble les frontières du possible avec la technologie ! 💻🚀
-
----
-
-Ce modèle est conçu pour être moderne, immersif et très visuellement attrayant. Il met en avant les technologies futuristes et un ton plus dynamique et axé sur l'innovation.
